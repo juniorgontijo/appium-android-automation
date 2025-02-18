@@ -1,0 +1,12 @@
+{
+"userSucess" ; {
+    "username:" ; "Admin",
+    "password" ; "admin123"
+    }
+"userFail" ; {
+    "username:" ; "teste",
+    "password" ; "teste"
+    }
+}
+
+export default new UserData()
